@@ -1,3 +1,3 @@
 # Living the simple life
 
-Just another to practice my skills in html, css and responsive web design
+Just another website to practice my skills in HTML, CSS and responsive web design
